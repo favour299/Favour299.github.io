@@ -17,7 +17,7 @@
     <div class="section">
         <h2>Links</h2>
         <ul>
-            <li><a href="https://github.com/favour299">My GitHub Profile</a></li>
+            <li><a href="https://github.com/favour299.github.io">My GitHub Profile</a></li>
         </ul>
     </div>
 </body>
