@@ -3,7 +3,7 @@
     <div class="section">
         <h2>About Me</h2>
         <p>I'm a student currently learning [Artificial Intelligence ].
-           I'm interested in [Becoming AI Engineer .</p>
+           I'm interested in [Becoming An AI Engineer .</p>
     </div>
 
     <div class="section">
